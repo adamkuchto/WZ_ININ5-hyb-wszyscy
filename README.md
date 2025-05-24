@@ -20,7 +20,7 @@ Projek zoo online stworzony na potrzeby przedmiotu "Zarządzanie projektem wdro�
   - css
   - javaScript
   - git i github
-  - github pages do hostowania
+  - github pages do hostowania, [**Zobacz link**]()
  
   ## jak uruchomić
   Wystarczy kliknąć w link
@@ -30,6 +30,8 @@ Projek zoo online stworzony na potrzeby przedmiotu "Zarządzanie projektem wdro�
   - Marta
   - Heniek
 
+## Jak możesz pomóc?
+chcesz pomóc? zobacz zasady współpracy w [CONTRIBUTING.md](CONTRIBUTING.md).
    
  
     
