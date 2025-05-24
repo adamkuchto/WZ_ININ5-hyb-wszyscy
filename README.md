@@ -1,6 +1,6 @@
 # Nazwa projektu
 Projek zoo online stworzony na potrzeby przedmiotu "Zarządzanie projektem wdrożeniowym" na WSB Merito w Gdyni
-##Zobacz podgląd projektu
+## Zobacz podgląd projektu
 ![podglad_projektu](img/pies.jpg)
 
 ## Spis treści
