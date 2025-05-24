@@ -20,7 +20,7 @@ Projek zoo online stworzony na potrzeby przedmiotu "Zarządzanie projektem wdro�
   - css
   - javaScript
   - git i github
-  - github pages do hostowania, [**Zobacz link**]()
+  - github pages do hostowania, [**Zobacz link**](https://adamkuchto.github.io/WZ_ININ5-hyb-wszyscy/)
  
   ## jak uruchomić
   Wystarczy kliknąć w link
